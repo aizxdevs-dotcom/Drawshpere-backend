@@ -24,7 +24,7 @@ app.add_middleware(
     CORSMiddleware,
     # change to your frontend URL(s) if needed
     allow_origins=[
-        "https://drawsphere-seven.vercel.app",
+        "https://drawsphere-lq96f4uit-aizxdevs-projects.vercel.app/",
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:5174",
